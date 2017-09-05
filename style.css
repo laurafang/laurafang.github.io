@@ -37,7 +37,7 @@ h2 {
 }
 
 header {
-
+    background-color: rgba(252, 203, 42,1);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -74,7 +74,7 @@ header {
 
 #about {
     width: 100%;
-
+    background-color: rgba(252, 203, 42,1);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -106,7 +106,7 @@ header {
 }
 
 #portfolio {
-
+    background-color: rgba(252, 203, 42,1);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
