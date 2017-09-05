@@ -5,13 +5,13 @@ body {
 }
 
 #navi {
-    background-color: #fccb2a;
+    background-color: white;
     list-style-type: none;
     padding: 0;
     overflow: hidden;
     width: 100%;
     height: 40px;
-    color: white;
+
     text-align: right;
     font-family: zapfino;
 
