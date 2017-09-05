@@ -1,6 +1,7 @@
 body {
     text-align: center;
     margin: -8px;
+    background-color: rgba(252, 203, 42,1);
 }
 
 #navi {
@@ -36,7 +37,7 @@ h2 {
 }
 
 header {
-    background-image: url("images/city.jpg");
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,7 +74,7 @@ header {
 
 #about {
     width: 100%;
-    background-image: url(images/bg3.jpg);
+
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -105,7 +106,7 @@ header {
 }
 
 #portfolio {
-    background-image: url("images/bg4.jpg");
+
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -171,7 +172,7 @@ header {
 }
 
 #contact {
-    background-image: url("images/bg2.jpg");
+
     background-position: 0 65%;
     width: 100%;
     height: 400px;
