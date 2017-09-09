@@ -48,23 +48,6 @@ header {
     font-family: impact;
 }
 
-#header h1 {
-    font-size: 4em;
-}
-
-#header h2 {
-    font-size: 3em;
-    font-family: impact;
-}
-
-#header-text {
-    font-size: 2em;
-}
-
-#header-text2 {
-    font-size: 2em;
-    color: #5c1b06;
-}
 
 .header {
     position: absolute;
@@ -73,12 +56,6 @@ header {
     font-size: 1.5em;
 }
 
-#about {
-    width: 100%;
-    background-color: rgba(252, 203, 42,1);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 
 
 
