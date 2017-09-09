@@ -8,7 +8,7 @@ body {
 }
 
 #navi {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 1);
     list-style-type: none;
     padding: 0;
     overflow: hidden;
@@ -21,13 +21,13 @@ body {
     position: fixed;
     border-radius: 0px 0px 6px 0px;
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+    #-moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
     font-size: 1em;
     margin-bottom: 10px;
     padding-top: 10px;
     padding-right: 30px;
     padding-bottom: 10px;
-    margin-top: -8px;
+    margin-top: 3px;
     z-index: 99999;
 }
 
@@ -58,7 +58,17 @@ header {
     right: 100px;
     font-size: 1.5em;
 }
-
+/*
+#blackweapper{
+   #float:left;
+   list-style: none;
+   -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    padding-top: 2px;
+    width: 100px;
+    background: black;
+}
+*/
 #wrapper {
     position: contact-content;
     top: 0;
@@ -71,6 +81,10 @@ header {
     #height: 100%;
     background-color: rgb(255, 225, 109);
     overflow: hidden;
+    border-radius: 0px 0px 6px 0px;
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
 }
 
 
@@ -89,18 +103,17 @@ header {
 }
 
 footer {
-
-    line-height: 2em;
-    background-color: rgba(0, 0, 0, 0.2);
+    #position: fixed;
+    background-color: rgba(255, 255, 255, 1);
     border-radius: 0px 0px 6px 0px;
     -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.75);
     width: 100%;
     height: 50px;
-    padding: 10px 0;
+    padding: 10px 10px;
     font-size: 1.5em;
-    color: black;
-    margin: -20;
+
+
     overflow: hidden;
     z-index: 99999;
 }
