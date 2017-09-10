@@ -43,7 +43,10 @@ body {
     position: relative;
     display: inline-block;
 }
-
+.resume{
+  font-size: 3em;
+  font-family: impact;
+}
 .dropdown-content {
     display: none;
     position: absolute;
