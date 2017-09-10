@@ -44,8 +44,10 @@ body {
     display: inline-block;
 }
 .resume{
-  font-size: 3em;
-  font-family: impact;
+  font-size: 5em;
+  
+
+  font-family: Optima,Segoe,"Segoe UI",Candara,Calibri,Arial,sans-serif
 }
 .dropdown-content {
     display: none;
