@@ -6,7 +6,9 @@ body {
 
 
 }
-
+#logohome{
+  background-image: url(images/icon3.png);
+}
 #navi {
     background-color: rgba(255, 255, 255, 1);
     list-style-type: none;
