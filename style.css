@@ -63,7 +63,8 @@ body {
 #plus{
   font-size: 3em;
     #font:Arial;
-    font-family: 'Orbitron', sans-serif;
+    #font-family: 'Orbitron', sans-serif;
+    font-family: 'Libre Barcode 39 Text', cursive;
 }
 .dropdown-content {
     display: none;
