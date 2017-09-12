@@ -57,7 +57,7 @@ body {
   font-size: 3em;
   display: inline-block;
   text-transform: uppercase;
-
+  display: block;
   #font:Arial;
 }
 #plus{
