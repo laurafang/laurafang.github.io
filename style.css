@@ -53,11 +53,12 @@ body {
   margin-bottom: -0.8em;
 }
 #resume{
+  font-family: 'Codystar', cursive;
   font-size: 3em;
   display: inline-block;
+  text-transform: uppercase;
 
-
-  font:Arial;
+  #font:Arial;
 }
 #plus{
   font-size: 3em;
