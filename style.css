@@ -62,7 +62,8 @@ body {
 }
 #plus{
   font-size: 3em;
-    font:Arial;
+    #font:Arial;
+    font-family: 'Permanent Marker', cursive;
 }
 .dropdown-content {
     display: none;
