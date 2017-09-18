@@ -21,7 +21,7 @@ body {
     height: 40px;
 
     text-align: center;
-    font-family: zapfino;
+    
 
     position: fixed;
     border-radius: 0px 0px 3px 0px;
@@ -165,7 +165,7 @@ footer {
     padding-top: 13px;
     padding-right: 30px;
     padding-bottom: 20px;
-    margin-top: 3px;
+    margin-top: 3.5px;
     color: white;
     font-family: monospace;
 
