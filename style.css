@@ -4,6 +4,7 @@ body {
     #background-color: rgba(0, 0, 0, 0.9);
     background-image: url(images/sea.jpg);
     background-size: 100%;
+    background-repeat: no-repeat;
     display: block;
 
 
