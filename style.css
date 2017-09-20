@@ -139,10 +139,12 @@ body {
     color: white;
 }
 #hello{
-  font-size:12em;
+  font-size:10em;
+  font-family: 'Dawning of a New Day', cursive;
   margin-top: -0.68em;
   margin-bottom: -0.7em;
   z-index: 99999;
+  color:white;
 }
 .dropdown {
     position: relative;
@@ -152,6 +154,8 @@ body {
   font-size: 3em;
   margin-bottom: -0.75em;
   z-index: 99999;
+  font-family: 'Dawning of a New Day', cursive;
+  color: white;
 }
 #resume{
   font-family: 'Libre Barcode 39 Text', cursive;
@@ -161,6 +165,7 @@ body {
   display: block;
   #font:Arial;
   z-index: 99999;
+  color:white;
 }
 #plus{
   font-size: 3em;
