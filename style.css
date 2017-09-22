@@ -249,6 +249,12 @@ header {
 
 
 }
+.animated {
+  animation-duration: 1.5s;
+  animation-fill-mode: both;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
 /*==================================================*/
 
 /*==================================================*/
