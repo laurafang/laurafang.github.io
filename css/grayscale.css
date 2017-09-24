@@ -130,7 +130,7 @@ a {
         left: -14px;
         border-right-width: 14px;
         border-left-width: 0; }
-    .timeline > li .timeline-image {
+.timeline > li .timeline-image {
       position: absolute;
       z-index: 100;
       left: 0;
