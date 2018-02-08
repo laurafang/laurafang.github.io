@@ -171,6 +171,13 @@ a {
   .timeline .timeline-body > p {
     margin-bottom: 0; }
 
+#pro_pics {
+
+  width: 20%;
+  float: left;
+  padding: 0 20px 20px 30px;
+  
+}
 @media (min-width: 768px) {
   .timeline:before {
     left: 50%; }
