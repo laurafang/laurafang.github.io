@@ -45,6 +45,10 @@ a {
   a:focus, a:hover {
     text-decoration: none;
     color: #1d9b6c; }
+.pro-img{
+    width:25%;
+
+}
 
 #mainNav {
   font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -176,7 +180,7 @@ a {
   width: 20%;
   float: left;
   padding: 0 20px 20px 30px;
-  
+
 }
 @media (min-width: 768px) {
   .timeline:before {
@@ -205,7 +209,8 @@ a {
 
 @media (min-width: 992px) {
   .timeline > li {
-    min-height: 150px; }
+    min-height: 150px;
+   }
     .timeline > li .timeline-panel {
       padding: 0 20px 20px; }
     .timeline > li .timeline-image {
@@ -321,6 +326,7 @@ a {
     border: 1px solid #42DCA3;
     outline: none;
     background-color: #42DCA3; }
+
 
 ul.banner-social-buttons {
   margin-top: 0; }
